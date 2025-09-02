@@ -134,20 +134,6 @@ Scan Duration: 3.45 seconds
 | `--no-color` | Disable colored output | `--no-color` |
 | `-h, --help` | Show help message | `-h` |
 
-## 📁 File Structure
-
-```
-dnsrecon-elite/
-├── dnsrecon_elite.py      # Main executable
-├── requirements.txt       # Python dependencies
-├── subdomains.txt         # Default wordlist (424 entries)
-├── README.md             # This file
-├── LICENSE               # MIT License
-└── examples/             # Usage examples
-    ├── basic_scan.json
-    └── advanced_scan.json
-```
-
 ## 🎯 Use Cases
 
 ### 🔍 Security Research
