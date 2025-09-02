@@ -237,12 +237,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **dnspython** library - DNS resolution
 - **colorama** - Cross-platform colored output
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/dnsrecon-elite/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/dnsrecon-elite/discussions)
-- **Email**: your.email@example.com
-
 ---
 
 **Made with ❤️ by the DNSRecon Elite Team**
